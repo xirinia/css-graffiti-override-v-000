@@ -14,3 +14,9 @@ body  #wall #tag-3.slick.wicked {
 body #wall #tag-4 {
   display: none;
 }
+
+body body #wall #tag-4 {
+  display: none;
+} {
+  display: none;
+}
